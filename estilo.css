@@ -1,0 +1,83 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: url(ynme.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.lista {
+    text-align: center;
+    list-style: none;
+    margin: 210px 20px;
+    background: rgba(54, 2, 47, 0.37);
+    padding: 15px 20px;
+    display: block;
+    border-radius: 4px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.todas {
+    padding: auto;
+    margin-top: 200px;
+}
+
+.primeira {
+    text-align: center;
+    margin: 20px 20px;
+    padding: 15px 20px;
+    font-weight: bold;
+}
+
+.coisas {
+    color:#000000;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+.segunda {
+    text-align: center;
+    margin: 20px 20px;
+    padding: 15px 20px;
+    font-weight: bold;
+}
+
+.coisas-dois {
+    color:#000000;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+.terceira {
+    text-align: center;
+    margin: 20px 20px;
+    padding: 15px 20px;
+    font-weight: bold;
+}
+
+.coisas-tres {
+    color:#000000;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+.quarta {
+    text-align: center;
+    margin: 20px 20px;
+    padding: 15px 20px;
+    font-weight: bold;
+}
+
+.coisas-quatro {
+    color:#000000;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}

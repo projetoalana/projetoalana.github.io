@@ -1,0 +1,14 @@
+body {
+    background-image: url(coracoes.jpg);
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: bold;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 200px;
+}

@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(134,54,204);
+    background: radial-gradient(circle, rgba(134,54,204,1) 0%, rgba(184,8,223,0.9612219887955182) 100%);
+}
+
+.cesar {
+    text-align: center;
+}
+
+.adjetivo {
+    margin: auto;
+}
